@@ -1,0 +1,19 @@
+------------------------------------------------------------
+GITHUB PAGES
+------------------------------------------------------------
+
+Repositorio documental — Tarot Sí o No Online
+https://seoleon.github.io/tarot-si-o-no-online/
+
+Descripción:
+Miniweb documental publicada en GitHub Pages para reforzar el ecosistema temático de Tarot Sí o No. Incluye páginas sobre tirada, diccionario de cartas, método de interpretación, preguntas frecuentes y recursos enlazados.
+
+Páginas internas:
+https://seoleon.github.io/tarot-si-o-no-online/tirada-tarot-si-o-no.html
+https://seoleon.github.io/tarot-si-o-no-online/diccionario-cartas.html
+https://seoleon.github.io/tarot-si-o-no-online/metodo-interpretacion.html
+https://seoleon.github.io/tarot-si-o-no-online/faq.html
+https://seoleon.github.io/tarot-si-o-no-online/recursos.html
+
+Sitemap:
+https://seoleon.github.io/tarot-si-o-no-online/sitemap.xml
