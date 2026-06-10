@@ -1,0 +1,22 @@
+INSTRUCCIONES — GITHUB PAGES TAROT SÍ O NO
+
+Nombre recomendado del repositorio:
+tarot-si-o-no-online
+
+Pasos:
+1. Crea un repositorio público en GitHub.
+2. Sube todos los archivos de este ZIP a la raíz del repositorio.
+3. Ve a Settings → Pages.
+4. En Source, elige Deploy from a branch.
+5. En Branch, selecciona main y /root.
+6. Guarda.
+7. Espera unos minutos.
+8. La URL final debería ser:
+   https://TU-USUARIO.github.io/tarot-si-o-no-online/
+
+Después:
+1. Abre robots.txt y sitemap.xml.
+2. Sustituye TU-USUARIO por tu usuario real de GitHub.
+3. Si cambias el nombre del repo, cambia también tarot-si-o-no-online por el nombre real.
+4. Haz commit de los cambios.
+5. Pasa la URL publicada para revisar.
